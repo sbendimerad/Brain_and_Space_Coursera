@@ -1,4 +1,4 @@
-# Second Quiz Answers
+# Quiz Answers
 
 ## Question 1
 **Select all properties that the brain uses to construct the visual space in three dimensions.**
