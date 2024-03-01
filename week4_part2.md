@@ -1,4 +1,4 @@
-# Fifth Quiz Answers
+# Quiz Answers
 
 ## Question 1
 **What constitutes a map of neural activity patterns?**
