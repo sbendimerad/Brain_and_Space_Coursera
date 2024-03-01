@@ -1,4 +1,4 @@
-# Fourth Quiz Answers
+# Quiz Answers
 
 ## Question 1
 **Which of the following statements INCORRECTLY describes sound waves?**
